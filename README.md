@@ -43,7 +43,7 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 
-###Data Visualizations
+### Data Visualizations
 [Screenshot 2024-10-23 162542](https://github.com/user-attachments/assets/2cf89b1f-a51b-44a4-a8d6-ef4985e93222)
 
 [Screenshot 2024-10-23 162605](https://github.com/user-attachments/assets/38342357-11d6-4caf-95e5-8d1abd73b762)
